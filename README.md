@@ -22,3 +22,6 @@ CS 4555 - Introduction to 3D Computer Game Programming is a course focusing on t
 - Physics & Collisions: Set up game physics to make interactions realistic.
 - Interactivity: Design responsive and interactive gameplay elements.
 - Game Design Fundamentals: Apply principles of 3D game design throughout each module.
+
+## License 
+This repository is for educational purposes as part of the CS 4555 course at Cal State LA. 
