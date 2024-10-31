@@ -1,4 +1,4 @@
-## CS 4555: Introduction to 3D Computer Game Programming
+# CS 4555: Introduction to 3D Computer Game Programming
 
 Welcome to the CS 4555 - Intro to 3D Computer Game Programming project repository! This project contains assignments, projects, and examples related to the fundamentals of 3D game development.
 
