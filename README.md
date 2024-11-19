@@ -10,10 +10,7 @@ CS 4555 - Introduction to 3D Computer Game Programming is a course focusing on t
 
 ## Project Structure
     cs-4555-intro-3d-computer-game-prog/
-    ├── Assets/                # Game assets like models, textures, audio
-    ├── Docs/                  # Documentation for game modules and notes
-    ├── Scripts/               # Core game scripts and utilities
-    ├── Scenes/                # Saved scenes used in the game development process
+    ├── Player Animation/      # Main character animation
     └── README.md              # Project documentation
     
 
